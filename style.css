@@ -1,0 +1,96 @@
+body {
+    background-image: url(recipes/bg2.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: rgba(255, 122green, 29blue, 5alpha);
+    
+}
+.header {
+    color: black;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: -2px 0px 0px whitesmoke,2px 0px 0px whitesmoke, 0px -2px 0px whitesmoke, 0px 2px 0px whitesmoke;
+}
+
+#subhead {
+    color: black;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: -2px 0px 0px whitesmoke,2px 0px 0px whitesmoke, 0px -2px 0px whitesmoke, 0px 2px 0px whitesmoke;
+}
+
+.recipetitles {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+#lasagnapic {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#corndogpic {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#meatballspic {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    text-align:left
+
+}
+
+.backmain {
+    font-size: 25px;
+    color: black;
+    background-color: blanchedalmond;
+    font-weight: bold;
+    
+}
+
+.Next {
+    font-size: 25px;
+    color: black;
+    background-color: blanchedalmond;
+    font-weight: bold;
+
+}
+
+.buttonposition {
+    text-align: center;
+
+}
+
+.backprevpage {
+    font-size: 25px;
+    color: black;
+    background-color: blanchedalmond;
+    font-weight: bold;
+}
+
+.nextpage {
+    font-size: 25px;
+    color: black;
+    background-color: blanchedalmond;
+    font-weight: bold;
+}
